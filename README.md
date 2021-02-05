@@ -22,6 +22,6 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 
 
 ## MY GIT STATS
-![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=thoai112&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoai112&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
