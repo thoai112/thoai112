@@ -12,7 +12,7 @@
 
 
 ## ABOUT ME
-Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
+<!-- Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel. -->
 
 <!-- - 🎬 YouTuber @ [Coding Potter](https://www.youtube.com/codingpotter) -->
 - 🌟 Microsoft Learn Student Ambassador
