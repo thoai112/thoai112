@@ -10,7 +10,7 @@
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
     ➮ Depending on the project requirement, I use `shared_preferences` or `hive` for local storage. <br><br>
-    ☞ Hire me for your next project: <a href = "mailto: md.siam03@gmail.com">md.siam03@gmail.com</a> ☜
+    ☞ Hire me for your next project: <a href = "mailto: thoailata1000@gmail.com">thoailata1000@gmail.com</a> ☜
 <h4>
 
 ## 🙋‍♂️ About Me
@@ -27,7 +27,7 @@
 
 - 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
 
-- 📫  : How to reach me **[md.siam03@gmail.com]()**
+- 📫  : How to reach me **[thoailata1000@gmail.com]()**
 
 - ⚡ : Fun fact **[I love playing video games (CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
 
