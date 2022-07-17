@@ -1,7 +1,7 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a>
 
 
-<h1 align="left">Hi 👋,  I'm Md. Siam </h1>
+<h1 align="left">Hi 👋,  I'm KurataJr </h1>
     
 <img align="right" src="https://i.imgur.com/iDhGSi5.png" height="160"> </img>
 <h4 align="left">
@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="270"> </img> -->
+
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
 
@@ -25,7 +25,7 @@
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 
-- 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/md-siam?tab=repositories)**
+- 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/thoai112?tab=repositories)**
 
 - 📫  : How to reach me **[thoailata1000@gmail.com]()**
 
@@ -78,7 +78,7 @@
         <tr>
             <td>
                 <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=md-siam&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=thoai112&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
             </td>
         </tr>
    </table>
@@ -90,11 +90,11 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=md-siam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thoai112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-siam&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoai112&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
     </tr>
@@ -103,13 +103,13 @@
 <br/>
 <br/>
 
-<a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Md. Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=md-siam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="KurataJr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=md-siam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
 
 ## 📌 Pinned Repositories
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/md-siam/kid_starter">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=kid_starter&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
@@ -134,7 +134,7 @@
     <a href="https://github.com/md-siam/dhaka_stocks_price">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=dhaka_stocks_price&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
-</p>
+</p> -->
 
 
 ## 🔗 Connect with me:
