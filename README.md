@@ -5,7 +5,7 @@
     
 <img align="right" src="https://i.imgur.com/iDhGSi5.png" height="160"> </img>
 <h4 align="left">
-    I'm a Flutter developer from Bangladesh, having 2+ years of cross-platform app architect and development experience. <br>
+    I'm a Flutter developer from VietNam, having 2+ years of cross-platform app architect and development experience. <br>
     ➮ I prefer MVC or MVP, for the folder & file pattern. <br>
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
@@ -139,11 +139,11 @@
 
 ## 🔗 Connect with me:
 <p align="center">
-<a href = "https://www.linkedin.com/in/md-siam/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://twitter.com/Md_Siam03" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.facebook.com/md.siam.1994/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.instagram.com/md_siam/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://mdsiam.xyz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.linkedin.com/in/xuanthoaingo/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://twitter.com/ngothoai3" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.facebook.com/thoai.ngoxuan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.instagram.com/kuratajr/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://xuanthoait.site/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 ## ❤️ Views and Followers
@@ -154,8 +154,3 @@
 <a href="https://github.com/md-siam?tab=followers"><img src="https://img.shields.io/github/followers/md-siam?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-
-<!-- ## 🧮 Visitors Count
-<p align="center">
-<img align="center" src = "https://profile-counter.glitch.me/md-siam/count.svg" alt ="Loading">
-</p> -->
