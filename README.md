@@ -1,7 +1,9 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a>
 
+<h1 align="center">Hi 👋, I'm Xuan Thoai | Kuratajr ></h1>
+<h2 align="center"><b>🚀 Awesome Devops | AWS Community Builder | AWS SA || ☁️ CloudOpz ☁️</b></h2>
 
-<h1 align="left">Hi 👋,  I'm KurataJr </h1>
+<!-- <h1 align="left">Hi 👋,  I'm KurataJr </h1>
     
 <img align="right" src="https://i.imgur.com/iDhGSi5.png" height="160"> </img>
 <h4 align="left">
@@ -11,12 +13,12 @@
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
     ➮ Depending on the project requirement, I use `shared_preferences` or `hive` for local storage. <br><br>
     ☞ Hire me for your next project: <a href = "mailto: thoailata1000@gmail.com">thoailata1000@gmail.com</a> ☜
-<h4>
+<h4> -->
 
 ## 🙋‍♂️ About Me
 
 
-<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
+<!-- <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
 
 - 🔭  : I’m currently working on an **E-Commerce** app
@@ -27,9 +29,22 @@
 
 - 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/thoai112?tab=repositories)**
 
-- 📫  : How to reach me **[thoailata1000@gmail.com]()**
+- 📫  : How to reach me **[thoailata1000@gmail.com]()** -->
+---
+
+<img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
+
+- 🔭 **Devops Engineer**
+
+- 📝 I regularly write articles on [dev.to](https://dev.to/kuratajr)
+
+- 💬 Ask me about **AWS, Serverless, CDK, K8S**
+
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/https://www.linkedin.com/in/xuanthoaingo/)
 
 - ⚡ : Fun fact **[I love playing video games (CS:GO)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)**
+
+---
 
 
 ## 🚀 Languages and Tools:
