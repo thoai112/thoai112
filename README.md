@@ -1,19 +1,12 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a>
 
 <h1 align="center">Hi 👋, I'm Xuan Thoai | Kuratajr ></h1>
-<h2 align="center"><b>🚀 Awesome Devops | AWS Community Builder | AWS SA || ☁️ CloudOpz ☁️</b></h2>
+<h2 align="center"><b>🚀 Awesome Devops | ☁️ CloudOpz ☁️</b></h2>
 
 <!-- <h1 align="left">Hi 👋,  I'm KurataJr </h1>
     
 <img align="right" src="https://i.imgur.com/iDhGSi5.png" height="160"> </img>
-<h4 align="left">
-    I'm a Flutter developer from VietNam, having 2+ years of cross-platform app architect and development experience. <br>
-    ➮ I prefer MVC or MVP, for the folder & file pattern. <br>
-    ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
-    ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
-    ➮ Depending on the project requirement, I use `shared_preferences` or `hive` for local storage. <br><br>
-    ☞ Hire me for your next project: <a href = "mailto: thoailata1000@gmail.com">thoailata1000@gmail.com</a> ☜
-<h4> -->
+
 
 ## 🙋‍♂️ About Me
 
@@ -71,11 +64,6 @@
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.git-tower.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-tower/git-tower-icon.svg" title="Tower" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" title="Sketch" width="43" height="43"/> </a>
-    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png" title="Aftereffects"/> </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" title="Illustrator"/> </a>
-    <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png" title="Lightroom"/> </a>
-    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" title="Photoshop"/> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" title="Xd"/> </a>    
      
 </p>
 
@@ -105,11 +93,11 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thoai112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuratajr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thoai112&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoai112&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuratajr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoai112&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
     </tr>
@@ -124,32 +112,7 @@
 
 
 ## 📌 Pinned Repositories
-<!-- <p align="center">
-    <a href="https://github.com/md-siam/kid_starter">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=kid_starter&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/tip_calculator">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=tip_calculator&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/flutter_puzzle_hack">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=flutter_puzzle_hack&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/nilam">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=nilam&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/taja_khobor">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=taja_khobor&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/package_of_the_day">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=package_of_the_day&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/widget_of_the_day">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=widget_of_the_day&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/md-siam/dhaka_stocks_price">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=md-siam&repo=dhaka_stocks_price&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-</p> -->
+
 
 
 ## 🔗 Connect with me:
@@ -158,7 +121,7 @@
 <a href = "https://twitter.com/ngothoai3" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href = "https://www.facebook.com/thoai.ngoxuan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href = "https://www.instagram.com/kuratajr/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://xuanthoait.site/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://xuanthoait.dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
 ## ❤️ Views and Followers
